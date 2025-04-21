@@ -13,7 +13,6 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 20%;
 }
 
 #aside-one {
@@ -23,7 +22,6 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 20%;
 }
 
 #sub-container {
@@ -31,7 +29,6 @@ body {
     background-color: rgb(35, 169, 35);
     border-radius: 10px;
     margin: 5px 10px 5px 10px;
-    max-width: 20%;
 }
 
 #column {
@@ -50,7 +47,6 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 20%;
 }
 
 #footer {
@@ -60,5 +56,4 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 20%;
 }
