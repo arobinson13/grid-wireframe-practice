@@ -1,6 +1,9 @@
+body {
+    background-color: rgb(198, 198, 198);
+}
+
 #container {
     display: grid;
-    background-color: rgb(198, 198, 198);
 }
 
 #header {
